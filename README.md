@@ -11,4 +11,4 @@
 ![equation](https://latex.codecogs.com/gif.latex?y_{A=B}^{SoP}=(A.B)&plus;(\bar{A}.\bar{B}))
  &nbsp;
  
-![equation](https://latex.codecogs.com/gif.latex?y_{A<B}^{PoS}=(A.B)&plus;(\bar{A}.\bar{B})&plus;(\bar{A}.B))
+![equation](https://latex.codecogs.com/gif.latex?y_{A<B}^{PoS}=(A&plus;B).(\bar{A}&plus;\bar{B}).(\bar{A}&plus;B))
