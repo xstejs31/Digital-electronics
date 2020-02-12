@@ -32,6 +32,7 @@
 | :-: | :-: |
 | 0 | 0 |
 | 1 | 0 |
+
 &nbsp; 
 
 ![equation](https://latex.codecogs.com/gif.latex?y_{A<B}^{PoS_{min}}=(\bar{A}.B)) 
